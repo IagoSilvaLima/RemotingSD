@@ -11,7 +11,7 @@ namespace ServidorRMI
         {
             Console.WriteLine("Servidor iniciado");
             TcpChannel tcpChannel = new TcpChannel(5000);
-            ChannelServices.RegisterChannel(tcpChannel);
+            ChannelServices.RegisterChannel(tcpChannel,false);
 
 
             

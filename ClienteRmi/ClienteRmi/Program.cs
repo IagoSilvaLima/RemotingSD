@@ -20,7 +20,7 @@ namespace ClienteRmi
             int meses = Convert.ToInt16(Console.ReadLine());
 
             TcpChannel tcpChannel = new TcpChannel();
-            ChannelServices.RegisterChannel(tcpChannel);
+            ChannelServices.RegisterChannel(tcpChannel,false);
 
             Type requiredType = typeof(ICalculoFGTS);
 
