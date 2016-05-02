@@ -1,0 +1,5 @@
+C:\Users\iago\Documents\TrabalhoRmi\ServidorRMI\ServidorRMI\bin\Debug\ServidorRMI.exe.config
+C:\Users\iago\Documents\TrabalhoRmi\ServidorRMI\ServidorRMI\bin\Debug\ServidorRMI.exe
+C:\Users\iago\Documents\TrabalhoRmi\ServidorRMI\ServidorRMI\bin\Debug\ServidorRMI.pdb
+C:\Users\iago\Documents\TrabalhoRmi\ServidorRMI\ServidorRMI\obj\Debug\ServidorRMI.exe
+C:\Users\iago\Documents\TrabalhoRmi\ServidorRMI\ServidorRMI\obj\Debug\ServidorRMI.pdb

@@ -1,0 +1,6 @@
+C:\Users\iago\Documents\TrabalhoRmi\ClienteRmi\ClienteRmi\bin\Debug\ClienteRmi.exe.config
+C:\Users\iago\Documents\TrabalhoRmi\ClienteRmi\ClienteRmi\bin\Debug\ClienteRmi.exe
+C:\Users\iago\Documents\TrabalhoRmi\ClienteRmi\ClienteRmi\bin\Debug\ClienteRmi.pdb
+C:\Users\iago\Documents\TrabalhoRmi\ClienteRmi\ClienteRmi\obj\Debug\ClienteRmi.csprojResolveAssemblyReference.cache
+C:\Users\iago\Documents\TrabalhoRmi\ClienteRmi\ClienteRmi\obj\Debug\ClienteRmi.exe
+C:\Users\iago\Documents\TrabalhoRmi\ClienteRmi\ClienteRmi\obj\Debug\ClienteRmi.pdb
